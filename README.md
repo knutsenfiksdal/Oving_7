@@ -1,24 +1,24 @@
-# Oving 7
-![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=brightgreen&style=flat-square)
+# Øving 7
 
-This is my solution to the problem stated in "oving 7 testing"
+![GitHub last commit](https://img.shields.io/github/last-commit/knutsenfiksdal/Oving_7?color=brightgreen&style=flat-square)
+
+
+### TODO
+
+- [ ] Complete [tests.py](tests.py)
+
+- [ ] Using the results from [tests.py](tests.py) construct the file [tur_fixed.py](tur_fixed.py)
+    
+- [ ] Documentation  
+  - [x] Create useful README file
+  - [ ] Make all .py files self-documenting
 
 ## Project structure
 
-For this task I have created the test file ```tests.py``` which will attempt to verify the file ```tur.py```. The file ```tur.py``` should comply with the following requrements:
+For this task I have created the test file [tests.py](tests.py) which will attempt to verify the file [tur.py](tur.py). The file [tur.py](tur.py) should comply with the following requrements to pass the test.
 
-```bash
-pip install foobar
 ```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Empty
 ```
 
 ## License
